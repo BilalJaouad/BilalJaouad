@@ -1,0 +1,13 @@
+.env
+.env.*
+*.pdf
+*.docx
+*.key
+*.pem
+*.log
+node_modules/
+.venv/
+private/
+tmp/
+.DS_Store
+Thumbs.db
